@@ -1,6 +1,6 @@
 {
-  "name": "obfuscator-io-metro-plugin",
-  "version": "2.1.3",
+  "name": "@shahil_m/obfuscator-io-metro-plugin",
+  "version": "3.0.3",
   "description": "A metro plugin to use javascript-obfuscator library with react-native ",
   "main": "lib/index.js",
   "directories": {
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/whoami-shubham/obfuscator-io-metro-plugin.git"
+    "url": "git+https://github.com/ShahilMangroliya/obfuscator-io-metro-plugin.git"
   },
-  "author": "Shubham Jha",
+  "author": "Shahil Mangroliya",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/whoami-shubham/obfuscator-io-metro-plugin/issues"
+    "url": "https://github.com/ShahilMangroliya/obfuscator-io-metro-plugin/issues"
   },
-  "homepage": "https://github.com/whoami-shubham/obfuscator-io-metro-plugin#readme",
+  "homepage": "https://github.com/ShahilMangroliya/obfuscator-io-metro-plugin#readme",
   "keywords": [
     "obfuscation",
     "javascript",
@@ -33,6 +33,6 @@
     "commander": "2.20.3",
     "fs-extra": "8.1.0",
     "glob": "7.1.6",
-    "javascript-obfuscator": "^4.0.2"
+    "javascript-obfuscator": "^4.1.1"
   }
 }
