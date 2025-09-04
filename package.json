@@ -1,6 +1,6 @@
 {
   "name": "@shahil_m/obfuscator-io-metro-plugin",
-  "version": "3.0.3",
+  "version": "3.0.4",
   "description": "A metro plugin to use javascript-obfuscator library with react-native ",
   "main": "lib/index.js",
   "directories": {
